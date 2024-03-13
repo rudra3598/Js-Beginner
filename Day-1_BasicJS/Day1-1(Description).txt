@@ -1,13 +1,17 @@
-Comments:
-
-// This line outputs a message to the console: This comment explains the purpose of the following line of code.
-
-console.log("Here you can write a message");: This line of code logs a message to the console. The message you want to display should be written inside the parentheses. For example, if you want to display "Hello, world!", you would replace "Here you can write a message" with "Hello, world!".
-
 Explanation:
 
-The console.log() function is a built-in JavaScript function used to output messages, variables, or any other data to the console.
+The initial console.log() statement simply welcomes us to the script.
 
-This statement will print the message "Here you can write a message" to the console when the code is executed. It's a helpful way to check the state of your program or to debug by inspecting values.
+We then move on to the introduction of variables. First, we define a 
+constant (const) variable emailId, followed by accountId and accountPass 
+declared with let and var, respectively. Lastly, fName is declared without 
+any keyword, implicitly creating a global variable.
 
-You can use console.log() to display any information you need while developing your JavaScript code. It's commonly used for debugging purposes or for providing feedback during script execution.
+After declaring and initializing the variables, we log their values to 
+the console to see what we've stored.
+
+We then attempt to change the values of accountId, accountPass, and fName, 
+showcasing how constants and variables declared with let and var behave 
+differently when it comes to reassignment.
+
+Finally, we log the updated values to observe the changes.
