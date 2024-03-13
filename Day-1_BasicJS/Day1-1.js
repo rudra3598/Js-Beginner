@@ -1,1 +1,2 @@
-console.log("Here you can write messege");
+// Output a message to the console
+console.log("Here you can write a message");
