@@ -1,0 +1,15 @@
+Explanation:
+
+The code starts with a message indicating the topic of the section: Datatype Conversion.
+
+It demonstrates the use of the typeof operator to check the datatype of a variable.
+
+It shows how to convert a string to a number using the Number() function.
+
+Complex conversions are demonstrated by changing the value of 'age' to "19abc" and "null".
+
+It explains the behavior of typeof when checking the datatype after conversion.
+
+Comments are provided throughout the code to explain each part comprehensively.
+
+This commented code provides a detailed explanation of datatype conversion in JavaScript, covering scenarios like converting strings to numbers and the behavior of typeof in such cases. Let me know if you need further clarification!
