@@ -1,0 +1,17 @@
+Explanation:
+
+The code begins with "use strict";, which ensures modern ECMAScript standards are followed and catches common coding mistakes.
+
+It logs the result of the expression 3 + 3, which is 6, to the console.
+
+A welcoming message is logged to the console.
+
+Variables name, age, and isLoggedIn are declared with different data types: string, number, and boolean, respectively.
+
+It explains each data type briefly.
+
+The typeof operator is used to log the data type of each variable.
+
+Comments are added to provide explanations for each part of the code.
+
+This commented code provides a clear understanding of data types in JavaScript and how to check them using the typeof operator. Let me know if you need further clarification!
